@@ -1,3 +1,3 @@
-module github.com/jesseduffield/semver/v3
+module github.com/jesseduffield/semver
 
 go 1.12
